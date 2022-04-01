@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @traxes99
 - 👀 I’m interested in Kali Linux and it posibillyties
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
